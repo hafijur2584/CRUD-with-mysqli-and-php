@@ -1,0 +1,31 @@
+
+.modal-footer{
+    background-color: #6c757d;
+
+}
+.modal-footer>h3{
+    color: #fff;
+}
+.modal-footer>a{
+    font-size: 20px;
+}
+.main_component{
+    margin-top: 20px;
+}
+
+.register_form{
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.lll{
+    min-height: 470px;
+    background-color: rgba(0, 0, 0, 0.09);
+}
+.ll{
+    background-color: rgba(0, 0, 0, 0.29);
+}
+.form_reg{
+    max-width: 600px;
+    margin: 0 auto;
+}
